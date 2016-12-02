@@ -42,5 +42,6 @@
     "string": "The {{field}} should be a string.",
     "under": "The {{field}} should be under {{argument.0}}.",
     "unique": "The {{field}} has already been taken.",
-    "url": "The {{field}} should be a valid url."
+    "url": "The {{field}} should be a valid url.",
+    "confirmed": "The {{field}} confirmation does not match."
 }
