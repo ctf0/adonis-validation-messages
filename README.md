@@ -1,7 +1,7 @@
 # adonis-validation-messages
 custom validation msgs instead of the default `{{validation}} validation failed on {{field}}`
 
-## Usage
+## Usage (until its added to core)
 
 ```js
 const Helpers = use('Helpers')
