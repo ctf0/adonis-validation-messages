@@ -2,4 +2,11 @@
 custom validation messages instead of the default `{{validation}} validation failed on {{field}}`
 
 ### Installation
-copy the folder to `resources/locales/`
+Copy Your Locale Folder From `src` To `resources/locales/`
+
+## Supported Locales
+* Arabic
+* English
+
+### TODO
+[ ] add more locales
