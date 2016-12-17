@@ -9,4 +9,4 @@ Copy Your Locale Folder From `src` To `resources/locales/`
 * English
 
 ### TODO
-[ ] add more locales
+- [ ] add more locales
