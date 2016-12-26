@@ -8,5 +8,8 @@ Copy Your Locale Folder From `src` To `resources/locales/`
 * Arabic
 * English
 
+### How To Use
+https://ctf0.wordpress.com/2016/11/26/adonisjs/
+
 ### TODO
 - [ ] add more locales
